@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Qui Radio/ViewControllers/FirstViewController.h"
+            timestampString = "461970265.338168"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FirstViewController transitions]"
+                  moduleName = "Qui Radio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rambodrahmani/Desktop/Progetto%20QuiRadio/Qui%20Radio/Qui%20Radio/ViewControllers/FirstViewController.h"
+                  timestampString = "461970265.35551"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FirstViewController setTransitions:]"
+                  moduleName = "Qui Radio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rambodrahmani/Desktop/Progetto%20QuiRadio/Qui%20Radio/Qui%20Radio/ViewControllers/FirstViewController.h"
+                  timestampString = "461970265.356802"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "22">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
